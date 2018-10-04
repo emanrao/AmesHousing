@@ -86,3 +86,7 @@ MoSold: Month Sold  <br/>
 YrSold: Year Sold  <br/>
 SaleType: Type of sale  <br/>
 SaleCondition: Condition of sale  <br/>
+
+## Link:
+Based on Kaggle Competition <br/>
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
